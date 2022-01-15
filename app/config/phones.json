@@ -1,0 +1,986 @@
+[
+  {
+    "continent": "NA",
+    "phone": "17871939"
+  },
+  {
+    "continent": "NA",
+    "phone": "18091829"
+  },
+  {
+    "continent": "EU",
+    "phone": "441481"
+  },
+  {
+    "continent": "EU",
+    "phone": "441624"
+  },
+  {
+    "continent": "EU",
+    "phone": "441534"
+  },
+  {
+    "continent": "EU",
+    "phone": "35818"
+  },
+  {
+    "continent": "NA",
+    "phone": "1473"
+  },
+  {
+    "continent": "NA",
+    "phone": "1767"
+  },
+  {
+    "continent": "OC",
+    "phone": "1671"
+  },
+  {
+    "continent": "NA",
+    "phone": "1876"
+  },
+  {
+    "continent": "OC",
+    "phone": "1670"
+  },
+  {
+    "continent": "NA",
+    "phone": "1649"
+  },
+  {
+    "continent": "NA",
+    "phone": "1345"
+  },
+  {
+    "continent": "NA",
+    "phone": "1242"
+  },
+  {
+    "continent": "NA",
+    "phone": "1868"
+  },
+  {
+    "continent": "NA",
+    "phone": "1441"
+  },
+  {
+    "continent": "NA",
+    "phone": "1664"
+  },
+  {
+    "continent": "NA",
+    "phone": "1758"
+  },
+  {
+    "continent": "NA",
+    "phone": "1268"
+  },
+  {
+    "continent": "NA",
+    "phone": "1784"
+  },
+  {
+    "continent": "NA",
+    "phone": "1246"
+  },
+  {
+    "continent": "NA",
+    "phone": "1284"
+  },
+  {
+    "continent": "NA",
+    "phone": "1340"
+  },
+  {
+    "continent": "OC",
+    "phone": "1684"
+  },
+  {
+    "continent": "NA",
+    "phone": "1869"
+  },
+  {
+    "continent": "NA",
+    "phone": "1264"
+  },
+  {
+    "continent": "AS",
+    "phone": "977"
+  },
+  {
+    "continent": "AF",
+    "phone": "264"
+  },
+  {
+    "continent": "OC",
+    "phone": "687"
+  },
+  {
+    "continent": "AF",
+    "phone": "227"
+  },
+  {
+    "continent": "OC",
+    "phone": "672"
+  },
+  {
+    "continent": "AF",
+    "phone": "234"
+  },
+  {
+    "continent": "NA",
+    "phone": "505"
+  },
+  {
+    "continent": "EU",
+    "phone": "371"
+  },
+  {
+    "continent": "AS",
+    "phone": "971"
+  },
+  {
+    "continent": "AF",
+    "phone": "265"
+  },
+  {
+    "continent": "AS",
+    "phone": "961"
+  },
+  {
+    "continent": "OC",
+    "phone": "674"
+  },
+  {
+    "continent": "OC",
+    "phone": "683"
+  },
+  {
+    "continent": "AS",
+    "phone": "968"
+  },
+  {
+    "continent": "NA",
+    "phone": "507"
+  },
+  {
+    "continent": "OC",
+    "phone": "689"
+  },
+  {
+    "continent": "OC",
+    "phone": "675"
+  },
+  {
+    "continent": "AF",
+    "phone": "258"
+  },
+  {
+    "continent": "EU",
+    "phone": "356"
+  },
+  {
+    "continent": "AS",
+    "phone": "960"
+  },
+  {
+    "continent": "OC",
+    "phone": "692"
+  },
+  {
+    "continent": "AF",
+    "phone": "212"
+  },
+  {
+    "continent": "EU",
+    "phone": "377"
+  },
+  {
+    "continent": "EU",
+    "phone": "373"
+  },
+  {
+    "continent": "EU",
+    "phone": "382"
+  },
+  {
+    "continent": "NA",
+    "phone": "590"
+  },
+  {
+    "continent": "AF",
+    "phone": "261"
+  },
+  {
+    "continent": "EU",
+    "phone": "352"
+  },
+  {
+    "continent": "EU",
+    "phone": "370"
+  },
+  {
+    "continent": "NA",
+    "phone": "508"
+  },
+  {
+    "continent": "AF",
+    "phone": "230"
+  },
+  {
+    "continent": "AF",
+    "phone": "223"
+  },
+  {
+    "continent": "AS",
+    "phone": "976"
+  },
+  {
+    "continent": "AS",
+    "phone": "853"
+  },
+  {
+    "continent": "AF",
+    "phone": "266"
+  },
+  {
+    "continent": "NA",
+    "phone": "596"
+  },
+  {
+    "continent": "AF",
+    "phone": "222"
+  },
+  {
+    "continent": "AF",
+    "phone": "231"
+  },
+  {
+    "continent": "AF",
+    "phone": "218"
+  },
+  {
+    "continent": "EU",
+    "phone": "423"
+  },
+  {
+    "continent": "EU",
+    "phone": "389"
+  },
+  {
+    "continent": "EU",
+    "phone": "381"
+  },
+  {
+    "continent": "OC",
+    "phone": "870"
+  },
+  {
+    "continent": "AF",
+    "phone": "256"
+  },
+  {
+    "continent": "AS",
+    "phone": "992"
+  },
+  {
+    "continent": "OC",
+    "phone": "690"
+  },
+  {
+    "continent": "OC",
+    "phone": "670"
+  },
+  {
+    "continent": "AS",
+    "phone": "993"
+  },
+  {
+    "continent": "AF",
+    "phone": "216"
+  },
+  {
+    "continent": "OC",
+    "phone": "676"
+  },
+  {
+    "continent": "OC",
+    "phone": "688"
+  },
+  {
+    "continent": "AS",
+    "phone": "886"
+  },
+  {
+    "continent": "AF",
+    "phone": "255"
+  },
+  {
+    "continent": "EU",
+    "phone": "380"
+  },
+  {
+    "continent": "SA",
+    "phone": "598"
+  },
+  {
+    "continent": "AF",
+    "phone": "235"
+  },
+  {
+    "continent": "AS",
+    "phone": "998"
+  },
+  {
+    "continent": "EU",
+    "phone": "379"
+  },
+  {
+    "continent": "OC",
+    "phone": "678"
+  },
+  {
+    "continent": "OC",
+    "phone": "681"
+  },
+  {
+    "continent": "OC",
+    "phone": "685"
+  },
+  {
+    "continent": "AS",
+    "phone": "967"
+  },
+  {
+    "continent": "AF",
+    "phone": "262"
+  },
+  {
+    "continent": "AF",
+    "phone": "260"
+  },
+  {
+    "continent": "AF",
+    "phone": "263"
+  },
+  {
+    "continent": "EU",
+    "phone": "381"
+  },
+  {
+    "continent": "AF",
+    "phone": "228"
+  },
+  {
+    "continent": "AF",
+    "phone": "268"
+  },
+  {
+    "continent": "AS",
+    "phone": "970"
+  },
+  {
+    "continent": "AF",
+    "phone": "211"
+  },
+  {
+    "continent": "EU",
+    "phone": "351"
+  },
+  {
+    "continent": "OC",
+    "phone": "680"
+  },
+  {
+    "continent": "SA",
+    "phone": "595"
+  },
+  {
+    "continent": "AS",
+    "phone": "974"
+  },
+  {
+    "continent": "AF",
+    "phone": "262"
+  },
+  {
+    "continent": "AF",
+    "phone": "250"
+  },
+  {
+    "continent": "AS",
+    "phone": "966"
+  },
+  {
+    "continent": "OC",
+    "phone": "677"
+  },
+  {
+    "continent": "AF",
+    "phone": "248"
+  },
+  {
+    "continent": "AF",
+    "phone": "249"
+  },
+  {
+    "continent": "AF",
+    "phone": "290"
+  },
+  {
+    "continent": "AS",
+    "phone": "963"
+  },
+  {
+    "continent": "EU",
+    "phone": "386"
+  },
+  {
+    "continent": "EU",
+    "phone": "421"
+  },
+  {
+    "continent": "AF",
+    "phone": "232"
+  },
+  {
+    "continent": "EU",
+    "phone": "378"
+  },
+  {
+    "continent": "AF",
+    "phone": "221"
+  },
+  {
+    "continent": "AF",
+    "phone": "252"
+  },
+  {
+    "continent": "SA",
+    "phone": "597"
+  },
+  {
+    "continent": "AF",
+    "phone": "239"
+  },
+  {
+    "continent": "NA",
+    "phone": "503"
+  },
+  {
+    "continent": "NA",
+    "phone": "599"
+  },
+  {
+    "continent": "AS",
+    "phone": "856"
+  },
+  {
+    "continent": "EU",
+    "phone": "376"
+  },
+  {
+    "continent": "NA",
+    "phone": "599"
+  },
+  {
+    "continent": "AF",
+    "phone": "253"
+  },
+  {
+    "continent": "AF",
+    "phone": "225"
+  },
+  {
+    "continent": "OC",
+    "phone": "682"
+  },
+  {
+    "continent": "AF",
+    "phone": "237"
+  },
+  {
+    "continent": "NA",
+    "phone": "506"
+  },
+  {
+    "continent": "AF",
+    "phone": "238"
+  },
+  {
+    "continent": "NA",
+    "phone": "599"
+  },
+  {
+    "continent": "EU",
+    "phone": "357"
+  },
+  {
+    "continent": "EU",
+    "phone": "420"
+  },
+  {
+    "continent": "AF",
+    "phone": "213"
+  },
+  {
+    "continent": "AF",
+    "phone": "236"
+  },
+  {
+    "continent": "AS",
+    "phone": "965"
+  },
+  {
+    "continent": "EU",
+    "phone": "372"
+  },
+  {
+    "continent": "AF",
+    "phone": "212"
+  },
+  {
+    "continent": "AF",
+    "phone": "291"
+  },
+  {
+    "continent": "AF",
+    "phone": "251"
+  },
+  {
+    "continent": "EU",
+    "phone": "358"
+  },
+  {
+    "continent": "OC",
+    "phone": "679"
+  },
+  {
+    "continent": "SA",
+    "phone": "500"
+  },
+  {
+    "continent": "AF",
+    "phone": "242"
+  },
+  {
+    "continent": "AF",
+    "phone": "243"
+  },
+  {
+    "continent": "EU",
+    "phone": "298"
+  },
+  {
+    "continent": "EU",
+    "phone": "359"
+  },
+  {
+    "continent": "EU",
+    "phone": "355"
+  },
+  {
+    "continent": "AS",
+    "phone": "374"
+  },
+  {
+    "continent": "AF",
+    "phone": "244"
+  },
+  {
+    "continent": "NA",
+    "phone": "297"
+  },
+  {
+    "continent": "AS",
+    "phone": "994"
+  },
+  {
+    "continent": "EU",
+    "phone": "387"
+  },
+  {
+    "continent": "AS",
+    "phone": "880"
+  },
+  {
+    "continent": "AF",
+    "phone": "226"
+  },
+  {
+    "continent": "AS",
+    "phone": "973"
+  },
+  {
+    "continent": "NA",
+    "phone": "501"
+  },
+  {
+    "continent": "AF",
+    "phone": "257"
+  },
+  {
+    "continent": "AF",
+    "phone": "229"
+  },
+  {
+    "continent": "NA",
+    "phone": "590"
+  },
+  {
+    "continent": "AS",
+    "phone": "673"
+  },
+  {
+    "continent": "SA",
+    "phone": "591"
+  },
+  {
+    "continent": "NA",
+    "phone": "599"
+  },
+  {
+    "continent": "AS",
+    "phone": "975"
+  },
+  {
+    "continent": "AF",
+    "phone": "267"
+  },
+  {
+    "continent": "EU",
+    "phone": "375"
+  },
+  {
+    "continent": "OC",
+    "phone": "691"
+  },
+  {
+    "continent": "SA",
+    "phone": "593"
+  },
+  {
+    "continent": "AF",
+    "phone": "241"
+  },
+  {
+    "continent": "AS",
+    "phone": "246"
+  },
+  {
+    "continent": "AF",
+    "phone": "245"
+  },
+  {
+    "continent": "SA",
+    "phone": "592"
+  },
+  {
+    "continent": "AS",
+    "phone": "852"
+  },
+  {
+    "continent": "EU",
+    "phone": "385"
+  },
+  {
+    "continent": "NA",
+    "phone": "509"
+  },
+  {
+    "continent": "EU",
+    "phone": "353"
+  },
+  {
+    "continent": "AS",
+    "phone": "972"
+  },
+  {
+    "continent": "AS",
+    "phone": "964"
+  },
+  {
+    "continent": "AF",
+    "phone": "240"
+  },
+  {
+    "continent": "EU",
+    "phone": "354"
+  },
+  {
+    "continent": "AS",
+    "phone": "962"
+  },
+  {
+    "continent": "AF",
+    "phone": "254"
+  },
+  {
+    "continent": "AS",
+    "phone": "996"
+  },
+  {
+    "continent": "AS",
+    "phone": "855"
+  },
+  {
+    "continent": "OC",
+    "phone": "686"
+  },
+  {
+    "continent": "AF",
+    "phone": "269"
+  },
+  {
+    "continent": "AS",
+    "phone": "850"
+  },
+  {
+    "continent": "NA",
+    "phone": "502"
+  },
+  {
+    "continent": "NA",
+    "phone": "504"
+  },
+  {
+    "continent": "AF",
+    "phone": "233"
+  },
+  {
+    "continent": "AF",
+    "phone": "220"
+  },
+  {
+    "continent": "SA",
+    "phone": "594"
+  },
+  {
+    "continent": "NA",
+    "phone": "590"
+  },
+  {
+    "continent": "EU",
+    "phone": "350"
+  },
+  {
+    "continent": "AS",
+    "phone": "995"
+  },
+  {
+    "continent": "NA",
+    "phone": "299"
+  },
+  {
+    "continent": "AF",
+    "phone": "224"
+  },
+  {
+    "continent": "AS",
+    "phone": "90"
+  },
+  {
+    "continent": "EU",
+    "phone": "31"
+  },
+  {
+    "continent": "AS",
+    "phone": "98"
+  },
+  {
+    "continent": "EU",
+    "phone": "48"
+  },
+  {
+    "continent": "EU",
+    "phone": "39"
+  },
+  {
+    "continent": "AS",
+    "phone": "92"
+  },
+  {
+    "continent": "AS",
+    "phone": "82"
+  },
+  {
+    "continent": "EU",
+    "phone": "33"
+  },
+  {
+    "continent": "AS",
+    "phone": "63"
+  },
+  {
+    "continent": "AS",
+    "phone": "81"
+  },
+  {
+    "continent": "SA",
+    "phone": "55"
+  },
+  {
+    "continent": "EU",
+    "phone": "32"
+  },
+  {
+    "continent": "EU",
+    "phone": "47"
+  },
+  {
+    "continent": "SA",
+    "phone": "58"
+  },
+  {
+    "continent": "SA",
+    "phone": "51"
+  },
+  {
+    "continent": "AS",
+    "phone": "84"
+  },
+  {
+    "continent": "AS",
+    "phone": "94"
+  },
+  {
+    "continent": "OC",
+    "phone": "61"
+  },
+  {
+    "continent": "EU",
+    "phone": "43"
+  },
+  {
+    "continent": "SA",
+    "phone": "54"
+  },
+  {
+    "continent": "AS",
+    "phone": "91"
+  },
+  {
+    "continent": "AS",
+    "phone": "95"
+  },
+  {
+    "continent": "EU",
+    "phone": "45"
+  },
+  {
+    "continent": "SA",
+    "phone": "57"
+  },
+  {
+    "continent": "AS",
+    "phone": "60"
+  },
+  {
+    "continent": "EU",
+    "phone": "49"
+  },
+  {
+    "continent": "NA",
+    "phone": "52"
+  },
+  {
+    "continent": "OC",
+    "phone": "61"
+  },
+  {
+    "continent": "EU",
+    "phone": "46"
+  },
+  {
+    "continent": "AS",
+    "phone": "65"
+  },
+  {
+    "continent": "EU",
+    "phone": "30"
+  },
+  {
+    "continent": "EU",
+    "phone": "40"
+  },
+  {
+    "continent": "EU",
+    "phone": "47"
+  },
+  {
+    "continent": "NA",
+    "phone": "53"
+  },
+  {
+    "continent": "AS",
+    "phone": "86"
+  },
+  {
+    "continent": "EU",
+    "phone": "34"
+  },
+  {
+    "continent": "SA",
+    "phone": "56"
+  },
+  {
+    "continent": "AF",
+    "phone": "20"
+  },
+  {
+    "continent": "OC",
+    "phone": "64"
+  },
+  {
+    "continent": "EU",
+    "phone": "41"
+  },
+  {
+    "continent": "EU",
+    "phone": "36"
+  },
+  {
+    "continent": "AS",
+    "phone": "61"
+  },
+  {
+    "continent": "AS",
+    "phone": "93"
+  },
+  {
+    "continent": "AS",
+    "phone": "66"
+  },
+  {
+    "continent": "AF",
+    "phone": "27"
+  },
+  {
+    "continent": "AS",
+    "phone": "62"
+  },
+  {
+    "continent": "EU",
+    "phone": "44"
+  },
+  {
+    "continent": "EU",
+    "phone": "7"
+  },
+  {
+    "continent": "NA",
+    "phone": "1"
+  },
+  {
+    "continent": "OC",
+    "phone": "1"
+  },
+  {
+    "continent": "NA",
+    "phone": "1"
+  },
+  {
+    "continent": "AS",
+    "phone": "7"
+  }
+]
